@@ -104,7 +104,7 @@ $ npm install
 $ node server.js
 ```
 Go to '/public/src' 
-Install the dependencies and start the React.JS client
+Install the dependencies and compile the source code of React.JS client side [May not be neccessary]
 ```sh 
 $ cd public/src
 $ npm install
