@@ -12,7 +12,7 @@ This is a demostration to show using different gateways by different conditions.
 - If the inputs are not valid or fail to order, show error mesages.
 ![Alt text](https://image.ibb.co/cPUJnp/make_payment_error.png "Error")
 
-##### Validtions
+##### Validations
 - Customer Name: Only accept Chinese and English with spaces
 - Customer Phone Number: Only accept 8-digital phone number in HK
 - Currency: Only accept 'HKD', 'USD', 'AUD', 'EUR', 'CNY', 'JPY'
