@@ -19,6 +19,7 @@ This is a demostration to show using different gateways by different conditions.
 - Price: Only accept number with at most 2 decimal places.
 - Credit Card Holder: Only accept Chinese and English with spaces
 - Credit Card Number: Using card-validator to check the credit card type [VISA, MASTER, AMX, ...] and the card number validation with each card center.
+Examples of credit cards: {AMX: 378282246310005, MasterCard: 5105105105105100, VISA: 4111111111111111, JCB: 3530111333300000}
 - Credit Card Expiration: Only accept the 'MM/YY' format and an valid date.
 - Credit Card CCV: 3 digits or 4 digits [It is different issued by card centers]
 
